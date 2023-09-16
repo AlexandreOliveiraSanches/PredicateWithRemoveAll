@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\bin\Debug\net7.0\PredicateWithRemoveAll.exe
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\bin\Debug\net7.0\PredicateWithRemoveAll.deps.json
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\bin\Debug\net7.0\PredicateWithRemoveAll.runtimeconfig.json
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\bin\Debug\net7.0\PredicateWithRemoveAll.dll
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\bin\Debug\net7.0\PredicateWithRemoveAll.pdb
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.AssemblyInfo.cs
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.dll
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\refint\PredicateWithRemoveAll.dll
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.pdb
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\PredicateWithRemoveAll.genruntimeconfig.cache
+C:\codigos\projetos C#\PredicateWithRemoveAll\PredicateWithRemoveAll\obj\Debug\net7.0\ref\PredicateWithRemoveAll.dll
